@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://github.com/llucasgomes/One-Page/blob/main/src/assets/images/Tela1.png" alt="Imagem do Desafio 3"/>
-  <img src="https://github.com/llucasgomes/One-Page/blob/main/src/assets/images/Tela3.png" alt="Imagem do Desafio 3"/>
+  <img src="https://github.com/llucasgomes/One-Page/blob/main/src/assets/images/Tela2.png" alt="Imagem do Desafio 3"/>
   <img src="https://github.com/llucasgomes/One-Page/blob/main/src/assets/images/Tela3.png" alt="Imagem do Desafio 3"/>
   <img src="https://github.com/llucasgomes/One-Page/blob/main/src/assets/images/Tela4.png" alt="Imagem do Desafio 3"/>
   
