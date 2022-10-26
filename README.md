@@ -12,7 +12,7 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Pagina](https://jordan-shoes-react.vercel.app/)
+- [Pagina](https://one-page-ecru.vercel.app/)
 
 ## 🔖&nbsp; Sobre
 
